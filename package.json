@@ -1,0 +1,23 @@
+{
+  "name": "brighton-weather",
+  "version": "1.0.0",
+  "description": "brighton weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patito/brighton-weather.git"
+  },
+  "author": "paulo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patito/brighton-weather/issues"
+  },
+  "homepage": "https://github.com/patito/brighton-weather#readme",
+  "dependencies": {
+    "express": "^4.13.0",
+    "request": "^2.58.0"
+  }
+}
